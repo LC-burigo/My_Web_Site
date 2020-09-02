@@ -1,2 +1,2 @@
 # My_Web_Site
-Django + HTML + Boostrap
+Django + HTML + Bootstrap
